@@ -3,3 +3,4 @@
 运行：复制 `.env.example` 为 `.env`，填入 `DEEPSEEK_API_KEY`，然后 `python summarize.py`。
 进度：第 1–4 天，hello.py 与 summarize.py 已跑通，输入 note.txt，输出 summary.txt。
 下一步：批量处理多个文件，再试检索增强（RAG）。
+## 输出示例
